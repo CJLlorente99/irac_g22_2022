@@ -1,14 +1,14 @@
 [playlist]
 NumberOfEntries=12
-File1=C:\Users\carlo\Documents\Universidad\MUIT\Primero\Segundo Semestre\Integración de Redes Aplicaciones y Contenidos\Tema 3 Distribucion de contenidos multimedia sobre redes IP\irac_g22_2022\radio\La Oreja de Van Gogh\A las 5 en el Astoria\01 El último vals.mp3
-File2=C:\Users\carlo\Documents\Universidad\MUIT\Primero\Segundo Semestre\Integración de Redes Aplicaciones y Contenidos\Tema 3 Distribucion de contenidos multimedia sobre redes IP\irac_g22_2022\radio\La Oreja de Van Gogh\A las 5 en el Astoria\02 Inmortal.mp3
-File3=C:\Users\carlo\Documents\Universidad\MUIT\Primero\Segundo Semestre\Integración de Redes Aplicaciones y Contenidos\Tema 3 Distribucion de contenidos multimedia sobre redes IP\irac_g22_2022\radio\La Oreja de Van Gogh\A las 5 en el Astoria\03 Jueves.mp3
-File4=C:\Users\carlo\Documents\Universidad\MUIT\Primero\Segundo Semestre\Integración de Redes Aplicaciones y Contenidos\Tema 3 Distribucion de contenidos multimedia sobre redes IP\irac_g22_2022\radio\La Oreja de Van Gogh\A las 5 en el Astoria\04 Más.mp3
-File5=C:\Users\carlo\Documents\Universidad\MUIT\Primero\Segundo Semestre\Integración de Redes Aplicaciones y Contenidos\Tema 3 Distribucion de contenidos multimedia sobre redes IP\irac_g22_2022\radio\La Oreja de Van Gogh\A las 5 en el Astoria\05 Cumplir un año menos.mp3
-File6=C:\Users\carlo\Documents\Universidad\MUIT\Primero\Segundo Semestre\Integración de Redes Aplicaciones y Contenidos\Tema 3 Distribucion de contenidos multimedia sobre redes IP\irac_g22_2022\radio\La Oreja de Van Gogh\A las 5 en el Astoria\06 Europa VII.mp3
-File7=C:\Users\carlo\Documents\Universidad\MUIT\Primero\Segundo Semestre\Integración de Redes Aplicaciones y Contenidos\Tema 3 Distribucion de contenidos multimedia sobre redes IP\irac_g22_2022\radio\La Oreja de Van Gogh\A las 5 en el Astoria\07 La visita.mp3
-File8=C:\Users\carlo\Documents\Universidad\MUIT\Primero\Segundo Semestre\Integración de Redes Aplicaciones y Contenidos\Tema 3 Distribucion de contenidos multimedia sobre redes IP\irac_g22_2022\radio\La Oreja de Van Gogh\A las 5 en el Astoria\08 Sola.mp3
-File9=C:\Users\carlo\Documents\Universidad\MUIT\Primero\Segundo Semestre\Integración de Redes Aplicaciones y Contenidos\Tema 3 Distribucion de contenidos multimedia sobre redes IP\irac_g22_2022\radio\La Oreja de Van Gogh\A las 5 en el Astoria\09 Palabras para Paula.mp3
-File10=C:\Users\carlo\Documents\Universidad\MUIT\Primero\Segundo Semestre\Integración de Redes Aplicaciones y Contenidos\Tema 3 Distribucion de contenidos multimedia sobre redes IP\irac_g22_2022\radio\La Oreja de Van Gogh\A las 5 en el Astoria\10 Flores en la orilla.mp3
-File11=C:\Users\carlo\Documents\Universidad\MUIT\Primero\Segundo Semestre\Integración de Redes Aplicaciones y Contenidos\Tema 3 Distribucion de contenidos multimedia sobre redes IP\irac_g22_2022\radio\La Oreja de Van Gogh\A las 5 en el Astoria\11 Un cuento sobre el agua.mp3
-File12=C:\Users\carlo\Documents\Universidad\MUIT\Primero\Segundo Semestre\Integración de Redes Aplicaciones y Contenidos\Tema 3 Distribucion de contenidos multimedia sobre redes IP\irac_g22_2022\radio\La Oreja de Van Gogh\A las 5 en el Astoria\12 La primera versión.mp3
+File1=/home/famllocor/Documents/IRAC/irac_g22_2022/radio/LaOrejaDeVanGogh/Alas5enelAstoria/04MÃ¡s.mp3
+File2=/home/famllocor/Documents/IRAC/irac_g22_2022/radio/LaOrejaDeVanGogh/Alas5enelAstoria/03Jueves.mp3
+File3=/home/famllocor/Documents/IRAC/irac_g22_2022/radio/LaOrejaDeVanGogh/Alas5enelAstoria/12LaprimeraversiÃ³n.mp3
+File4=/home/famllocor/Documents/IRAC/irac_g22_2022/radio/LaOrejaDeVanGogh/Alas5enelAstoria/01ElÃºltimovals.mp3
+File5=/home/famllocor/Documents/IRAC/irac_g22_2022/radio/LaOrejaDeVanGogh/Alas5enelAstoria/08Sola.mp3
+File6=/home/famllocor/Documents/IRAC/irac_g22_2022/radio/LaOrejaDeVanGogh/Alas5enelAstoria/10Floresenlaorilla.mp3
+File7=/home/famllocor/Documents/IRAC/irac_g22_2022/radio/LaOrejaDeVanGogh/Alas5enelAstoria/07Lavisita.mp3
+File8=/home/famllocor/Documents/IRAC/irac_g22_2022/radio/LaOrejaDeVanGogh/Alas5enelAstoria/09PalabrasparaPaula.mp3
+File9=/home/famllocor/Documents/IRAC/irac_g22_2022/radio/LaOrejaDeVanGogh/Alas5enelAstoria/11Uncuentosobreelagua.mp3
+File10=/home/famllocor/Documents/IRAC/irac_g22_2022/radio/LaOrejaDeVanGogh/Alas5enelAstoria/05CumplirunaÃ±omenos.mp3
+File11=/home/famllocor/Documents/IRAC/irac_g22_2022/radio/LaOrejaDeVanGogh/Alas5enelAstoria/02Inmortal.mp3
+File12=/home/famllocor/Documents/IRAC/irac_g22_2022/radio/LaOrejaDeVanGogh/Alas5enelAstoria/06EuropaVII.mp3

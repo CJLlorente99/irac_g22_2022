@@ -1,7 +1,7 @@
 #!/usr/bin/liquidsoap
 
 # Music
-myplaylist = mksafe(playlist("~/playlist.pls"))
+myplaylist = mksafe(playlist("./playlist.pls"))
 
 # Start building the feed with music
 radio = myplaylist
