@@ -3,11 +3,13 @@
 # Music
 myplaylist = mksafe(playlist("./playlist.pls"))
 
+applause = mksafe(playlist("./applause.pls"))
+
 # Start building the feed with music
-radio = myplaylist
+radio = random(weights = [1, 1],[applause, myplaylist])
 
 # Stream it out
-output.icecast(%vorbis,
-  host = "localhost", port = 8000,
-  password = "hackme", mount = "basic-radio.ogg",
+output.icecast(%mp3,
+  host = "192.168.223.226", port = 8000,
+  password = "hackme", mount = "radio",
   radio)
